@@ -11,7 +11,6 @@
 💻 Skilled in **Python, Pandas, NumPy, MySQL, Matplotlib, Seaborn, Streamlit and Power BI**  
 📫 How to reach me: **vijay.rakkaiah@gmail.com**  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vijay-rakkaiah-79a8b21b1/)  
-📂 Check out my projects here on [GitHub](https://github.com/VijayRakkaiah)
 
 ---
 
