@@ -30,7 +30,6 @@
 
 ---
 
-
 ### 🚀 Goals for 2025
 
 - 📚 Master Deep Learning with TensorFlow and PyTorch  
