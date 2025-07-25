@@ -37,7 +37,7 @@
 
 ### 🚀 Goals for 2025
 
-- 📚 Master Deep Learning with TensorFlow and PyTorch  
+- 📚 Master in Deep Learning with TensorFlow and PyTorch  
 - 🧠 Build and share end-to-end ML & DL projects  
 - 🤝 Collaborate on open source AI projects  
 - 📝 Start blogging about ML & Data Science
