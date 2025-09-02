@@ -8,7 +8,7 @@
 ---
 
 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Science**  
-💻 Skilled in **Python, Pandas, NumPy, MySQL, Matplotlib, Seaborn, Streamlit and Power BI**  
+💻 Skilled in **Python, Pandas, NumPy, MySQL, Matplotlib, Seaborn, Streamlit, Power BI, Machine Learning, Deep Learning**  
 📫 How to reach me: **vijay.rakkaiah@gmail.com**  
 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/vijay-rakkaiah-79a8b21b1/)  
 
