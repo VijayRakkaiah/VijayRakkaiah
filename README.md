@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Rakkaiah</h1>
 <h3 align="center">Aspiring Machine Learning & Deep Learning Enthusiast | Python Developer</h3>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VijayRakkaiah&label=Profile%20views&color=0e75b6&style=flat" alt="VijayRakkaiah" />
 </p>
